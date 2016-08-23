@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessAppDemo</string>
+    <string name="title">Shopping SALE</string>
+    <string name="address">Rte Twisk, Tai Mo Shan, Hong Kong</string>
+    <string name="phonenum">123456</string>
+    <string name="detail">Business Description</string>
+    <string name="descipline">This site is our bussiness site. In this site you can shopping</string>
+</resources>
